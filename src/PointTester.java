@@ -18,6 +18,7 @@ public class PointTester {
 
         // task 3: create a circle class and circle tester
         // Circle has a Point (center) and a double (radius)
-        // has-a 
+        // has-a --> composition
+        // is-a --> inheritance
     }
 }

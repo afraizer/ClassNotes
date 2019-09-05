@@ -2,14 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="66f0adab-1e59-46c4-8539-8cf2db28f8ee" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Point.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PointTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOPFun/Circle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/OOPFun/CircleTester.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CircleTester.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOPFun/Book.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOPFun/Book.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOPFun/BookTester.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOPFun/BookTester.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Book.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BookTester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BookTester.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOPFun/PointTester.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOPFun/PointTester.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PointTester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PointTester.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -41,9 +40,16 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.PointTester">
+  <component name="RunManager" selected="Application.CircleTester">
     <configuration name="BookTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BookTester" />
+      <module name="OOPFun" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CircleTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CircleTester" />
       <module name="OOPFun" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -58,6 +64,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CircleTester" />
         <item itemvalue="Application.PointTester" />
         <item itemvalue="Application.BookTester" />
       </list>
