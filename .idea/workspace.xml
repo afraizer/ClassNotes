@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="66f0adab-1e59-46c4-8539-8cf2db28f8ee" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/out/production/OOPFun/Circle.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/OOPFun/CircleTester.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CircleTester.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOPFun/PointTester.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOPFun/PointTester.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Point.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PointOld.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/PointTester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PointTester.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />

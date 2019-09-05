@@ -1,15 +1,15 @@
-public class Point {
+public class PointOld {
     private int x;
     private int y;
 
     // DVC - no parameters
-    public Point() {
+    public PointOld() {
         this.x = 0;
         this.y = 0;
     }
 
     // EVC - has parameters
-    public Point(int x, int y) {
+    public PointOld(int x, int y) {
         this.x = x;
         this.y = y;
     }

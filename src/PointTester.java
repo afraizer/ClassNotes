@@ -2,14 +2,14 @@ import java.util.Arrays;
 
 public class PointTester {
     public static void main(String[] args) {
-        Point pointOne = new Point(3, 7);
-        Point origin = new Point();
+        Circle.Point pointOne = new Circle.Point(3, 7);
+        Circle.Point origin = new Circle.Point();
 
-        Point[] points = new Point[5];
+        Circle.Point[] points = new Circle.Point[5];
         // room to store point references, but no new point objects were just made
 
         for (int j = 0; j < points.length; j++) {
-            points[j] = new Point(j, j);
+            points[j] = new Circle.Point(j, j);
         }
         // print out the points in the array
         // static toString of the Array class
