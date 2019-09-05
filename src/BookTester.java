@@ -9,5 +9,7 @@ public class BookTester {
         System.out.println(bookTwo);
         System.out.println(bookTwo.getTitle());
 
+        bookOne.setTitle("one fish two fish red fish blue fish");
+        System.out.println(bookOne);
     }
 }

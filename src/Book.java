@@ -58,12 +58,29 @@ public class Book {
         return title;
     }
 
+    public void setTitle(String newTitle) {
+        title = newTitle;
+    }
+
     // task 1. add a getter for author and numPages
     public String getAuthor() {
         return author;
     }
+
+    public void setAuthor (String newAuthor) {
+        title = newAuthor;
+    }
+
     public int getNumPages() {
         return numPages;
     }
+    // Alt + Insert
+    public void setNumPages(int numPages) {
+        this.numPages = numPages;
+    }
 
+    // task 2. still in this project...
+    // create a point class, and a point tester class
+    // Point represents a point in 2D space (x, y)
+    // PointTester exercises some constructor and methods on Point
 }
